@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring various machine learning related stuff 
 - 🌱 I’m currently doing computer science major
 - 💞️ I’m looking to collaborate on various projects 
-- 📫 How to reach me to desired outcome 
+
 
 <!---
 EimanTahir071/EimanTahir071 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
