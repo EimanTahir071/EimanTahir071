@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EimanTahir071
 - 👀 I’m interested in exploring various machine learning related stuff 
-- 🌱 I’m currently doing computer science major
+- 🌱 I’m currently doing computer science major from COMSATS university Islamabad, Abbottabad campus
 - 💞️ I’m looking to collaborate on various projects 
 
 
