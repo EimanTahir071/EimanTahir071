@@ -1,10 +1,12 @@
 <!-- Header Section -->
+
+
+<h1 align="center">Eiman Tahir</h1>
+
+<h3 align="center">Artificial Intelligence Engineer | Machine Learning Engineer | Generative Ai Engineer </h3>
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5612AQHmbpYRanwhfQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1735300309639?e=2147483647&v=beta&t=OFkHA6D6JoE5n5-TN487s5WIvc15d29IDfUcYdXnCk0" alt="Welcome" width="1000"/>
 </p>
-
-<h1 align="center">Eiman Tahir</h1>
-<h3 align="center">Artificial Intelligence Engineer | Machine Learning Engineer | Generative Ai Engineer </h3>
 
 ---
 
@@ -45,7 +47,7 @@ Passionate about developing AI-powered solutions, building efficient systems, ex
 ---
 
 ##  What’s Up Next?
-- Advancing my **compiler system** using Java, JFlex, and CUP  
+ 
 - Developing AI/ML tools for **mental health insights**  
 - Strengthening **DSA & algorithmic skills** through consistent practice
 
@@ -53,7 +55,7 @@ Passionate about developing AI-powered solutions, building efficient systems, ex
 
 ##  Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/eiman-tahir-669a63276"><img alt="LinkedIn" src="https://simpleicons.org/icons/linkedin.svg" width="24"/></a>
+  <a href="https://www.linkedin.com/in/eiman-tahir-669a63276/">Linkedln</a>
   &nbsp;
   <a href="https://twitter.com/your-twitter"><img alt="Twitter" src="https://simpleicons.org/icons/twitter.svg" width="24"/></a>
 </p>
