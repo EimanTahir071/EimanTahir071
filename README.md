@@ -1,6 +1,4 @@
 <!-- Header Section -->
-
-
 <h1 align="center">Eiman Tahir</h1>
 
 <h3 align="center">Artificial Intelligence Engineer | Machine Learning Engineer | Generative Ai Engineer </h3>
