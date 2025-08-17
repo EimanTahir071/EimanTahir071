@@ -33,13 +33,9 @@ Passionate about developing AI-powered solutions, building efficient systems, ex
 | Top Languages       | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EimanTahir071&layout=compact&theme=radical) |
 | Contribution Streak | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=EimanTahir071&theme=radical) |
 
----
 
-## 📈 Profile Views
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=EimanTahir071&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Profile Views"/>
-</p>
+
 
 
 ---
@@ -53,11 +49,10 @@ Passionate about developing AI-powered solutions, building efficient systems, ex
 
 ##  Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/eiman-tahir-669a63276/">Linkedln</a>
+  <h5> LINKEDLN CONTACT:</h5>
+  <a href="https://www.linkedin.com/in/eiman-tahir-669a63276/">Linkedln</h5></a>
   &nbsp;
-  <a href="https://twitter.com/your-twitter"><img alt="Twitter" src="https://simpleicons.org/icons/twitter.svg" width="24"/></a>
 </p>
-
 ---
 
 ⭐️ Thanks for dropping by! If my work resonates, feel free to star any projects that catch your eye!
