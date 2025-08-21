@@ -68,13 +68,7 @@
 
 ---
 
-##  My Toolbox
 
-| Languages        | Frameworks/Tools             | Others               |
-|------------------|------------------------------|----------------------|
-|  Python, C ,C#,Java ,Assembly language ,SQL,Html,Css,JS,React,Node.js,Express.js| Flask, Scrapy,Matplotlib, Flutter ,Mysql,Postgresql,Unity    | Git, Docker, Jinja2     |
-
----
 
 ##  GitHub Analysis:
 
