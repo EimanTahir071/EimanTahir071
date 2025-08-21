@@ -1,4 +1,5 @@
 <!-- Header Section -->
+<div align="center">
 <h1 align="center">Eiman Tahir</h1>
  <p align="center"><img  src="https://camo.githubusercontent.com/1fd491a0d4a3211da626e028c69c6202305a04e000e17c4a7bec41f75eec83aa/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f6465267765696768743d3630302673697a653d32382670617573653d3130303026636f6c6f723d3030443446462663656e7465723d74727565267643656e7465723d747275652677696474683d363030266c696e65733d41492b2532362b4c4c4d2b456e67696e6565723b50726f64756374696f6e2b41492b576f726b666c6f77732b4578706572743b4167656e7469632b41492b536f6c7574696f6e732b5370656369616c6973743b536161532b5363616c696e672b53747261746567697374" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=28&amp;pause=1000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=AI+%26+LLM+Engineer;Production+AI+Workflows+Expert;Agentic+AI+Solutions+Specialist;SaaS+Scaling+Strategist" style="max-width: 100%;"></p>
 <h3  align="center"> AI ML ENGINEER ,GENERATIVE AI ENGINEER </h3>
@@ -10,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eiman-tahir-669a63276/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eiman.tahir.02762001@gmail.com)
 
+</div>
 
 ---
 
@@ -90,19 +92,34 @@
 
 ---
 
-##  What’s Up Next?
- 
-- Developing AI/ML tools for **mental health insights**  
-- Strengthening **DSA & algorithmic skills** through consistent practice
+## 📈 Activity Graph
+
+[![Eiman's's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EimanTahir071&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-##  Connect With Me
-<p align="center">
-  <h5> LINKEDLN CONTACT:</h5>
-  <a href="https://www.linkedin.com/in/eiman-tahir-669a63276/">Linkedln</h5></a>
-  &nbsp;
-</p>
+## 🎡 Current Focus
+
+- 🔬 **Expertise:** Production-ready AI workflows and agentic systems for SaaS scaling
+- 🚀 **Development:** Intelligent automation systems driving efficiency and growth
+- 📈 **Focus:** LangGraph-powered AI solutions and advanced ML architectures
+- 🤝 **Collaboration:** Open to impactful AI projects and startup scaling solutions
+
 ---
 
-⭐️ Thanks for dropping by! If my work resonates, feel free to star any projects that catch your eye!
+## 📫 Let's Connect!
+
+<div align="center">
+
+**Ready to build the future together? Let's connect and create something amazing!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/husnain-ali-ai)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.husnainali.work@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://linktr.ee/m.husnain.ali)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Challenge-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/M-Husnain-Ali/)
+
+---
+
+*⭐ From [M-Husnain-Ali](https://github.com/M-Husnain-Ali) with ❤️*
+
+</div>
