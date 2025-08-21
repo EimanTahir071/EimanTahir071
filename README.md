@@ -78,7 +78,7 @@
 
 
 
-##  GitHub Analysis:
+## 📈 GitHub Analysis:
 
 | Section             | Preview |
 |---------------------|---------|
