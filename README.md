@@ -29,7 +29,6 @@
 
 > *"The difference between the impossible and the possible lies in a person's determination." — Tommy Lasorda "*
 
-
 🔭 **Currently Working On:** AI ML and Gen AI </br> 
 🎯 **Expert In:** AI & LLM Engineering, production-ready AI workflows, and intelligent automation systems   </br> 
 👯 **Looking to Collaborate:** AI-powered applications, full-stack platforms, and automation systems   </br> 
