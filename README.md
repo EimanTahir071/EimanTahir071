@@ -123,7 +123,5 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-Challenge-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]()
 
 ---
-
 *⭐ From [Eiman Tahir ](https://github.com/EimanTahir071) with ❤️*
-
 </div>
