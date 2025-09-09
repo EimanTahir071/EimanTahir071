@@ -92,6 +92,7 @@
 
 
 ## 📈 GitHub Analysis:
+<div align="center">
 
 | Section             | Preview |
 |---------------------|---------|
@@ -99,7 +100,7 @@
 | Top Languages       | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EimanTahir071&layout=compact&theme=radical) |
 | Contribution Streak | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=EimanTahir071&theme=radical) |
 
-
+</div>
 
 
 ---
