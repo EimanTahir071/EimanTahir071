@@ -157,5 +157,5 @@
 
 
 ---
-*⭐ From [Eiman Tahir ](https://github.com/EimanTahir071) with ❤️*
+
 </div>
