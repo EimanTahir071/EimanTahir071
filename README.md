@@ -69,6 +69,8 @@
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🤖 AI & Machine Learning
+[![numpy badge](https://img.shields.io/badge/NumPy-9E9E9E?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![pandas badge](https://img.shields.io/badge/Pandas-13004B?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
