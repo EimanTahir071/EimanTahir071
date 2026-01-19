@@ -38,7 +38,7 @@
 🎯 **Expert In:** AI & LLM Engineering, production-ready AI workflows, and intelligent automation systems   </br> 
 👯 **Looking to Collaborate:** AI-powered applications, full-stack platforms, and automation systems   </br> 
 💬 **Ask Me About:** AI/LLM engineering, agentic AI solutions, production AI workflows </br> 
-🎓 **Education:** 7 Semester  CS student at **COMSATS University  Islamabad ,Abbottabad Campus **  </br> 
+🎓 **Education:** 8TH Semester  CS student at COMSATS University  Islamabad ,Abbottabad Campus   </br> 
 📍 **Location:** Abbottabad, Pakistan  
   
 ---
