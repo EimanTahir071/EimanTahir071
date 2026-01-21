@@ -105,7 +105,6 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 GitHub Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=EimanTahir071&theme=dark&hide_border=false&ring_color=87CEEB&title_color=4B9CD3&text_color=87CEEB&include_all_commits=false&count_private=false" width="100%" alt="EimanTahir071 GitHub Stats" />
       <br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=EimanTahir071&theme=dark&hide_border=false&ring=87CEEB&fire=87CEEB&currStreakLabel=4B9CD3" width="100%" alt="EimanTahir071 Streak Stats" />
