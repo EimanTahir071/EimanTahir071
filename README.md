@@ -102,15 +102,21 @@
 
 
 ### 📊 GitHub Stats:
-<p align="center">
- <a href="https://https://github.com/EimanTahir071/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Eiman Tahir streak" src="https://github-readme-streak-stats.herokuapp.com/?user=EimanTahir071&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
- <br/>
-<a href="https://github.com/EimanTahir071/github-readme-stats"><img alt="Eiman Tahir  Github Stats" src="https://github-readme-stats.vercel.app/api?username=EimanTahir071&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/EimanTahir071/github-readme-stats"><img alt="Eiman Tahir Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EimanTahir071&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 GitHub Stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=EimanTahir071&theme=dark&hide_border=false&ring_color=87CEEB&title_color=4B9CD3&text_color=87CEEB&include_all_commits=false&count_private=false" width="100%" alt="EimanTahir071 GitHub Stats" />
+      <br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=EimanTahir071&theme=dark&hide_border=false&ring=87CEEB&fire=87CEEB&currStreakLabel=4B9CD3" width="100%" alt="EimanTahir071 Streak Stats" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EimanTahir071&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="100%" height="70%" alt="Top Langs" />
+    </td>
+    <td width="50%" valign="center">
+      <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="Programming GIF" />
+    </td>
+  </tr>
+</table>
 
 
 ---
