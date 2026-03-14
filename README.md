@@ -32,7 +32,7 @@
 
 ## <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />About Me 
 
-> *"If you want to be the best ,u have to work more than the rest"*
+> *"If you want to be the best, you have to work more than the rest."*
 
 🔭 **Currently Working On:** AI ML and Gen AI </br> 
 🎯 **Expert In:** AI & LLM Engineering, production-ready AI workflows, and intelligent automation systems   </br> 
