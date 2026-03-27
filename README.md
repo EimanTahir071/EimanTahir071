@@ -130,10 +130,10 @@
 
 ## 🎡 Current Focus
 
-- 🔬 **Expertise:** Production-ready AI workflows and agentic systems for SaaS scaling
-- 🚀 **Development:** Intelligent automation systems driving efficiency and growth
-- 📈 **Focus:** LangGraph-powered AI solutions and advanced ML architectures
-- 🤝 **Collaboration:** Open to impactful AI projects and startup scaling solutions
+-  **Expertise:** Production-ready AI workflows and agentic systems for SaaS scaling
+-  **Development:** Intelligent automation systems driving efficiency and growth
+-  **Focus:** LangGraph-powered AI solutions and advanced ML architectures
+-  **Collaboration:** Open to impactful AI projects and startup scaling solutions
 
 ---
 
